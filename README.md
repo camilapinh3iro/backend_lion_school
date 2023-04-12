@@ -10,7 +10,7 @@ Integrar as disciplinas de PWFE (Programação web Front-end) e PWBE (Programaç
 
 - Neste projeto, cujo objetivo é o gerenciamento do sistema da escola Lion School, desenvolvemos tanto o back-end como o front-end da página.
 
-[Clique aqui]() para acessar o site. 
+[Clique aqui](https://camilapinh3iro.github.io/Projeto_Integrado_Lion_School/Front-End/home.html) para acessar o site. 
 
 ## **Documentação POSTMAN**
 O Postman é um API Client que facilita aos desenvolvedores criar, compartilhar, testar e documentar APIs. 
